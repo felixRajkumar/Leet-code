@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
-class Solution {
+class Surrounded_Regions {
     
     /* Problem breakdown 
                     - O Cells which are in border and the O cells chained to it will not be affected
